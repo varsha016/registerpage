@@ -1,0 +1,18 @@
+{
+  "singUp": [
+    {
+      "Name": "nikita",
+      "Email": "nikita@gmail.com",
+      "password": "666",
+      "cPassword": "123",
+      "id": 1
+    },
+    {
+      "Name": "varsha",
+      "Email": "varsha@gmail.com",
+      "password": "999",
+      "cPassword": "999",
+      "id": 2
+    }
+  ]
+}
